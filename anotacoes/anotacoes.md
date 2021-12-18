@@ -14,8 +14,6 @@ O objetivo desse texto é para fixar e consultar códigos importantes, que serve
 - CD PASTA -> PARA ACESSAR PASTA OU CAMINHO ESPECIFÍCO
 - CD.. -> VOLTAR UMA PASTA
 
-==================================================
-
 ## Iniciar repositório local
 
 - git init
