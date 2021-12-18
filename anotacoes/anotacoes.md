@@ -25,7 +25,7 @@ O objetivo desse texto é para fixar e consultar códigos importantes, que serve
 
 ## Enviando repositório local para o Github
 
-- git remote add origin https://github.com/Ayrton-Rodrigues/Ayrton-rodrigues.github.io.git
+- git remote add origin "link do seu github"
 - git push -u origin main
 
 ## Alteração no repositório
